@@ -1,11 +1,11 @@
 package exemple;
 
-import exemple.gravity.FallingObjectSimulator;
+import exemple.forces.ForcesSimulator;
 
 public class Main
 {
 	public static void main(String[] args)
 	{
-		FallingObjectSimulator.simulate();
+		ForcesSimulator.simulate();
 	}
 }
