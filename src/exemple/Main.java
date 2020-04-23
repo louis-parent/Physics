@@ -1,11 +1,11 @@
 package exemple;
 
-import exemple.forces.ForcesSimulator;
+import exemple.attractor.AttractorSimulator;
 
 public class Main
 {
 	public static void main(String[] args)
 	{
-		ForcesSimulator.simulate();
+		AttractorSimulator.simulate();
 	}
 }
