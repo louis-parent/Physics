@@ -1,11 +1,11 @@
 package exemple;
 
-import exemple.random.walker.RandomWalkerSimulator;
+import exemple.gravity.FallingObjectSimulator;
 
 public class Main
 {
 	public static void main(String[] args)
 	{
-		RandomWalkerSimulator.simulate();
+		FallingObjectSimulator.simulate();
 	}
 }
